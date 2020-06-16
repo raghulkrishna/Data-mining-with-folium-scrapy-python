@@ -15,8 +15,9 @@ Folium is a great visualisation tool for visualising data points on the map usin
 'https://python-visualization.github.io/folium/'
 
 # Geocoder
-Geocoder is open source package used for geocoding your location dataset
+Geocoder is open source package used for geocoding your location dataset.
 'https://geocoder.readthedocs.io/providers/OpenStreetMap.html'
 
-refrences
+refrences.
+
 'https://github.com/groundhogday321/python-folium'
