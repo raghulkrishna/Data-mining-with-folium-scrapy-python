@@ -1,5 +1,5 @@
 # Data-mining-with-folium-scrapy-python
-This is a mini project in Data mining where three different types of maps are created using folium using data scraped from wikipedia
+This is a mini project in Data mining where three different types of maps are created using folium with data scraped from wikipedia
 
 # Required packages
 pip install pandas
