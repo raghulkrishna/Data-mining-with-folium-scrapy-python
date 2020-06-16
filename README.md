@@ -12,10 +12,12 @@ pip install geocoder
 
 # Folium
 Folium is a great visualisation tool for visualising data points on the map using coordinates. Different types of map are produced for different purposes.
+
 'https://python-visualization.github.io/folium/'
 
 # Geocoder
 Geocoder is open source package used for geocoding your location dataset.
+
 'https://geocoder.readthedocs.io/providers/OpenStreetMap.html'
 
 refrences.
