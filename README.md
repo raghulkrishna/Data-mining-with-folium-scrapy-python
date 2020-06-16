@@ -1,5 +1,11 @@
-# Data-mining-with-folium-scrapy-python
+# visualising-geospatialdata-using-folium-for-airports-and-population
 This is a mini project in Data mining where three different types of maps are created using folium with data scraped from wikipedia
+# To view the maps produced in this repo
+'https://raghulkrishna.github.io/heatmap.github.io/'
+
+'https://raghulkrishna.github.io/choropleth.github.io/'
+
+'https://raghulkrishna.github.io/allairport.github.io/'
 
 # Required packages
 pip install pandas
